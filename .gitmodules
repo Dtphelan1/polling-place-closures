@@ -1,0 +1,3 @@
+[submodule "us-polling-places"]
+	path = us-polling-places
+	url = https://github.com/Dtphelan1/us-polling-places
