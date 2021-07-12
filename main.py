@@ -5,6 +5,8 @@ import os
 import sys
 from matplotlib import pyplot as plt
 
+PRECLEARANCE_STATES = ["Alabama", "Alaska", "Arizona", "Georgia", "Louisiana", "Mississippi", "South Carolina", "Texas", "Virginia"]
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--dataset_path', default='data_digits_8_vs_9_noisy')
