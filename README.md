@@ -112,12 +112,9 @@ Based on the table above – a subset of the data in STATUS.md – the followin
 
 - Alaska
 - Arkansas
-- California
 - Connecticut
 - Delaware
-- Florida
 - Georgia
-- Idaho
 - Illinois
 - Iowa
 - Kentucky
@@ -133,7 +130,6 @@ Based on the table above – a subset of the data in STATUS.md – the followin
 - New Hampshire
 - New Jersey
 - New Mexico
-- New York
 - North Carolina
 - North Dakota
 - Ohio
